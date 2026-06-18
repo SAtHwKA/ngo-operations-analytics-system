@@ -1,0 +1,11 @@
+Month,Event_Type,Location,Volunteers,New_Volunteers,Resources_Used,Cost,Impact_Score,People_Reached,Feedback_Score
+Jan,Workshop,Hyderabad,30,12,50,20000,80,150,4.5
+Feb,Campaign,Warangal,20,8,40,15000,60,300,4.0
+Mar,Seminar,Nizamabad,25,10,45,18000,70,200,4.2
+Apr,Workshop,Karimnagar,35,15,55,22000,85,180,4.6
+May,Campaign,Hyderabad,22,9,38,14000,65,350,4.1
+Jun,Seminar,Warangal,28,11,48,19000,75,220,4.3
+Jul,Workshop,Nizamabad,40,18,60,25000,90,210,4.7
+Aug,Campaign,Karimnagar,18,7,35,13000,55,400,3.9
+Sep,Seminar,Hyderabad,26,10,46,17500,72,230,4.2
+Oct,Workshop,Warangal,38,16,58,24000,88,190,4.6
